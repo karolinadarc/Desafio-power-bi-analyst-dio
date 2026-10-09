@@ -74,3 +74,13 @@ https://github.com/julianazanelatto/power_bi_analyst
 ---
 
 **Desenvolvido por Karolina Darc – Projeto de estudos em Power BI | DIO**
+## Visualização dos Dashboards
+
+### Página 1 – Faturamento e Indicadores
+![Faturamento e Indicadores](01-faturamento-indicadores.png)
+
+### Página 2 – Análise de Lucros
+![Análise de Lucros](02-analise-de-lucros.png)
+
+### Página 3 – Análise Geográfica e Segmentos
+![Análise Geográfica e Segmentos](03-analise-geografica-segmentos.png)

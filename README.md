@@ -73,7 +73,6 @@ https://github.com/julianazanelatto/power_bi_analyst
 
 ---
 
-**Desenvolvido por Karolina Darc – Projeto de estudos em Power BI | DIO**
 ## Visualização dos Dashboards
 
 ### Página 1 – Faturamento e Indicadores
@@ -84,3 +83,4 @@ https://github.com/julianazanelatto/power_bi_analyst
 
 ### Página 3 – Análise Geográfica e Segmentos
 ![Análise Geográfica e Segmentos](03-analise-geografica-segmentos.png)
+**Desenvolvido por Karolina Darc – Projeto de estudos em Power BI | DIO**
